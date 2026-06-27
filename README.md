@@ -3,9 +3,8 @@
  ⊹♡ 𝙷𝚒 s𝚘𝚢 𝙺𝚊𝚛𝚒 🌸.𐙚♡ 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=estudiante+inteligencia+artificial;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+<p> HELLO WORLD!, Bienvenido a mi github, Me encanta aprender y crear cosas nuevas.</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <!-- Imagen de snoopy -->
 
