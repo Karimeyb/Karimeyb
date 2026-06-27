@@ -1,5 +1,5 @@
 <h1 align="center">
- 𐙚₊˚⊹♡𝐇𝗂  .𝐒ⱺ𝗒 𝐊α𝗋𝗂 🌸.𐙚₊˚⊹♡!
+ 𐙚₊˚⊹♡𝙷𝚒  .𝚂𝚘𝚢 𝙺𝚊𝚛𝚒 🌸.𐙚₊˚⊹♡!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
