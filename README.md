@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Vishal Maurya!
+ ⊹ . ݁˖ . ݁. ݁₊ ⊹𝑯𝒊  .𝑺𝒐𝒚 𝑲𝒂𝒓𝒊 . ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
