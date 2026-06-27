@@ -9,7 +9,6 @@
   </a>
 </p>
 
-
 <!-- Imagen de snoopy -->
 
 <img align="left" src="https://github.com/user-attachments/assets/3d760883-f52f-4bbc-ba88-57c973ce334e" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
