@@ -24,8 +24,8 @@ Soy-Karimeyb@github
 📚 Tengo un titulo de técnico en electrónica.
 📝 Me interesa mucho la IA, robotica y ciberseguridad.
 🌟 Lenguajes principales : Python
-🚩 Apenas me estoy adentrando al mundo de la programación
-✨ Me encanta el mar, los animales, la astronomia y los robots
+🚩 Apenas me estoy adentrando al mundo de la programación.
+✨ Me encanta el mar, los animales, la astronomia y los robots.
 ```
 <hr>
 
