@@ -1,3 +1,4 @@
+<img width="658" height="546" alt="download (2)" src="https://github.com/user-attachments/assets/3d760883-f52f-4bbc-ba88-57c973ce334e" />
 <h1 align="center">
  ⊹♡ 𝙷𝚒 s𝚘𝚢 𝙺𝚊𝚛𝚒 🌸.𐙚♡ 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
